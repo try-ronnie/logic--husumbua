@@ -76,9 +76,5 @@ loop logic - in every loop :
                 2. if the complement is there then it means that the number is in the list and it can be paired with the num we are iterating over ( num changes every loop but the target is the same .... so if the complement is in the dict meaning it was in the list and we looped over it.... meaning that the current num we are looping over can be paired witht he complement value stored in the dict since it was a num (a number we looped ogver in one of the loops))
                 3. then we need to return both indices value of the two number that pair up (sum up)to target
 
- 
-*range logic*
-```
-num = [2,3,6,9,0,9]
-
-for 
+for this i learned that i should be ables to learn that problems involving  2 numbers where there is a sum or number to be achievd by the two number 
+we should find the most effective way that is using something like this method to calculate the problem
